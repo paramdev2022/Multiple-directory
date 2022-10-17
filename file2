@@ -3,3 +3,8 @@ file2
 total 8
 -rw-rw-r-- 1 paramesh paramesh 78 Oct 17 19:28 file1
 -rw-rw-r-- 1 paramesh paramesh 12 Oct 17 19:22 file2
+.
+..
+file1
+file2
+.git
